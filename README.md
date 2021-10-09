@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @BoredBox
+- 👀 I’m interested in video games, k-dramas, k-pop...
+- 🌱 I’m currently learning coding, and Korean language...
+- 📫 You can reach me or message me on my FB account (https://www.facebook.com/tesorerojerico/)...
+
+<!---
+BoredBox/BoredBox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
